@@ -9,4 +9,6 @@ transformers
 gensim
 pytextrank
 spacy
+datasets
+pickle
 -e .
